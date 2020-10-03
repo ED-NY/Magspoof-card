@@ -1,6 +1,6 @@
 # Magspoof-card
 This project comes from：https://github.com/samyk/magspoof<br>
-I just changed it to the size of a credit card and added its own coil and battery holder. The model 2032 lithium battery is used.<br/>
+I just changed it to the size of a credit card and added its own coil and battery . The model 2032 lithium battery is used.<br/>
 Here is a picture of the PCB<br>
 ![image](https://github.com/ED-NY/Magspoof-card/blob/master/magspoof-card1.png)<br/>
 ![image](https://github.com/ED-NY/Magspoof-card/blob/master/magspoof-card2.png)<br>
