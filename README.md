@@ -7,3 +7,4 @@ Here is a picture of the PCB<br>
 ![image](https://github.com/ED-NY/Magspoof-card/blob/master/magspoof-card3.png)<br/>
 If you need it, you can download it and make it.<br>
 And Don't forget the stars！<br/>
+How to is it https://www.freebuf.com/geek/253697.html
